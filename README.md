@@ -51,6 +51,30 @@
 
 ---
 
+<h3 align="center">🎮 Contribution Arcade</h3>
+
+<div align="center">
+
+<!-- Pac-Man Arcade -->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/PietroDev-lab/PietroDev-lab/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/PietroDev-lab/PietroDev-lab/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="Pac-Man contribution graph"
+    src="https://raw.githubusercontent.com/PietroDev-lab/PietroDev-lab/output/pacman-contribution-graph-dark.svg"
+  />
+</picture>
+
+</div>
+
+---
+
 <h3 align="center">🐍 Cute Contribution Snake</h3>
 
 <div align="center">
