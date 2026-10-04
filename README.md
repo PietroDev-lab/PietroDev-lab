@@ -55,44 +55,6 @@
 
 ---
 
-<h3 align="center">🏆 GitHub Trophies</h3>
-
-<div align="center">
-
-<img
-  src="https://raw.githubusercontent.com/PietroDev-lab/PietroDev-lab/output/trophy.svg"
-  height="145"
-  alt="GitHub trophies"
-/>
-
-</div>
-
----
-
-<h3 align="center">🎮 Contribution Arcade</h3>
-
-<div align="center">
-
-<!-- Pac-Man Arcade -->
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/PietroDev-lab/PietroDev-lab/output/pacman-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/PietroDev-lab/PietroDev-lab/output/pacman.svg"
-  />
-  <img
-    alt="Pac-Man contribution graph"
-    src="https://raw.githubusercontent.com/PietroDev-lab/PietroDev-lab/output/pacman-dark.svg"
-  />
-</picture>
-
-</div>
-
----
-
 <h3 align="center">🐍 Cute Contribution Snake</h3>
 
 <div align="center">
