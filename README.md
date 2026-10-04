@@ -1,24 +1,66 @@
-<div align="center">
+﻿<div align="center">
 
 <!-- Waving Black Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Hey%20%F0%9F%91%8B%20I'm%20Pietro%20Bouery&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Development%20%E2%80%A2%20AI%20Integration%20%E2%80%A2%20IT%20Student&descSize=17&descAlignY=60&descColor=888888" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Hey%20%F0%9F%91%8B%20I'm%20Pietro&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Full-Stack%20%26%20AI&descSize=18&descAlignY=60&descColor=888888" width="100%" />
 
 <!-- Animated Typewriter -->
 <a href="https://github.com/PietroDev-lab">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=480&lines=IT+Student+%40+USEK;Full-Stack+Developer+(.NET%2C+Flutter%2C+Python);AI-Native+Engineering+%26+Integration;Game+Dev+(Godot%2C+Unity)+%26+IoT;Welcome+to+my+GitHub+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=440&lines=H+e+l+l+o+++W+o+r+l+d" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<!-- Cute Animated Coder -->
-<img height="180" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Cute pixel coding animation" />
-
-<br/><br/>
-
-<!-- Minimalist Contact Badge -->
-<a href="mailto:pietrobouery@gmail.com">
-  <img src="https://img.shields.io/badge/Email-pietrobouery%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="Email" />
-</a>
+<!-- Braille Art -->
+<pre align="center">
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡘⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⣶⣤⣀⠀⠀⠀⠀⠀⣀⣀⣠⠀⠀⢀⠁⠀⠀⠀⢀⣠⡤⠤⢤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣿⣿⣷⡀⠀⣴⣿⣿⣿⡇⠀⠀⠸⠀⠀⣠⠞⠉⠀⠀⠀⠀⠀⠉⠳⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⣿⣏⢻⠃⢸⠿⣻⣿⡿⠁⠀⠀⡄⠀⣼⠃⠀⠀⠀⢀⠤⣤⣄⠀⠀⠘⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣠⣤⣤⣌⣙⡢⣠⡃⠘⠛⠉⠀⠀⠀⠀⡄⢸⠃⠀⠀⠀⢰⠁⠀⢹⠿⠀⠀⠀⡹⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⢀⣴⣿⣿⣿⣯⣥⡤⢊⠛⠋⣍⡛⣿⣿⣶⡄⠀⢸⣿⠀⠀⠀⠀⠸⡀⢀⡜⠀⠀⠀⣠⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⠿⠿⠟⠋⢠⣾⢠⣧⠘⢿⣿⣿⣿⣿⡄⢸⣿⠀⠀⠀⠀⠀⠙⠢⠄⠀⠤⠚⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠠⠊⢧⠀⠀⠀⠀⠀⠀⣿⣿⣾⣿⡇⠀⠩⡉⠉⠉⠁⠈⣿⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⠖⠒⠋⠁⠈⠀⠁⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠈⣇⠀⠀⠀⠀⠀⣻⣿⣿⡿⠉⠉⠉⠡⡀⠀⠀⠀⢻⣇⠀⠀⠀⠀⠀⢀⠔⠒⠉⠉⠁⠀⠀⣠⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠘⠦⣄⣀⡠⠚⠁⠻⠋⠀⠀⠀⠀⠀⠈⠢⡀⠀⠈⢿⡆⠀⠀⢀⠴⠃⠀⠀⠀⠀⣀⣤⣾⣿⡇⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠲⣄⠘⣿⣄⡔⠁⠀⠀⠀⣠⣴⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠑⢼⣿⣆⠀⠀⠀⣰⣿⣿⡿⣻⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣠⣤⠶⠾⠛⠛⠛⠻⠷⢶⣤⣀⠀⠀⠙⢿⣦⠀⠀⣿⣿⢋⣾⣿⣿⣿⠃⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣴⠟⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠙⢿⣦⡀⠈⢿⣧⠀⠸⡇⣾⣿⡿⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣰⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣆⠈⢿⣧⠀⠑⠉⠁⠀⠀⠀⠀⠀⢀⣤⣦⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢠⡟⠀⠀⠀⠀⠀⠀⠀⣠⠤⢀⠀⠀⢠⡀⠀⠀⠀⠈⢻⣆⠈⣿⣇⠀⠐⣶⣶⣤⣄⠀⣰⣿⣿⣿⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡃⠀⠀⠀⠀⠀⠀⠸⠅⠀⠀⠈⠄⠀⢻⣿⣶⣤⡀⠈⣿⡄⢸⣿⡄⠀⠻⣿⣟⠿⡆⢻⢣⡿⠋⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣇⠀⠀⠀⠀⠀⣴⣾⣿⠋⠀⠀⢸⠀⠀⢻⣿⣿⣷⡀⢹⡇⠀⣿⡇⠀⠀⠉⢛⣓⡚⣶⡇⡐⣻⣿⣿⣷⣄
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣆⠀⠀⠀⠘⠋⠉⠁⠀⠀⢀⠎⠀⠀⠈⢻⣿⣿⡇⢸⡇⠀⣿⡇⠀⣠⣾⣿⣡⡜⣨⢡⡈⠻⠿⠿⠋⠁
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠳⣄⡀⠀⠀⠀⠀⣀⡴⠋⠀⠀⠀⠀⠀⠙⠻⡇⢸⠇⢰⣿⠇⢠⣿⣿⡿⠟⠀⣿⣾⣿⡆⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠤⠤⠤⣄⠀⠀⠀⠀⠉⠉⠛⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⡟⠀⣼⡿⠀⠀⠀⠀⠀⠀⠀⠹⣿⣿⡇⠀⠀⠀⠀
+⢳⣦⣤⣤⣤⣤⣀⠀⠀⠀⠈⠣⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡸⠁⣸⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠀⠀⠀⠀⠀
+⠈⢻⣿⣿⣿⡿⣿⣧⠀⠀⠀⠀⠉⠦⣄⡀⠀⠀⠀⣀⠤⠤⣄⡀⠀⠀⠀⠀⠀⡰⠁⣴⡿⠃⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠙⠿⢿⣿⣷⡝⡆⠀⠀⠀⠀⠀⠀⠉⠉⠉⠉⠁⠀⠀⠀⢈⣽⡏⠒⠒⠖⢀⣾⡿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠈⠉⣉⠁⠥⠤⠀⣀⡀⠀⠀⠀⠀⠀⠀⠀⣀⣤⣶⣾⣿⠇⠀⠄⣠⣾⡟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠄⠊⡁⠀⠀⠀⠀⢀⣠⡌⠑⠦⡀⠀⠀⠀⣼⡿⣻⣿⣿⡿⠀⢀⣾⡿⠋⣀⠐⠶⠿⣿⣿⣿⣶⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⣿⣿⣦⡀⢰⣿⣿⡇⠀⠀⠈⢦⠀⠀⡟⣰⣿⣿⠟⢁⣴⡿⠋⠀⠀⠈⠻⣿⣷⣮⣝⡿⣿⣿⣿⣦⣄⣀⣀⡀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠈⠻⣏⢇⠘⡽⠋⠀⠀⠀⠀⠈⣧⠀⠁⠋⠉⢀⣴⡿⠋⠉⠓⠤⣀⣀⣀⡘⠻⣿⣿⣿⣿⣿⣿⣿⡿⠛⠉⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⢀⣴⣶⣖⡲⢹⡟⢔⣛⣿⣶⡄⠀⠀⢸⡄⠀⠀⣠⣾⠟⠁⠀⠀⠀⠀⠀⠀⠀⠉⠓⠦⠭⣍⣉⡉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠘⠛⠛⠛⢁⣾⣿⡄⠙⠛⠛⠉⠀⠀⢸⡇⠀⣴⣿⠋⠀⠀⠀⣀⣤⣴⣶⠾⠿⠿⠿⠷⣶⣦⣄⡈⠉⠲⣄⡀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠘⢿⣿⠇⠀⠀⠀⠀⠀⠀⣾⠃⣼⡿⠁⠀⢀⣴⡿⠛⠉⠁⠀⠀⠀⠀⠀⠀⠀⠈⠉⠻⢷⣤⡀⠉⠒⢄⠀⠀⠀⠀⠀
+⠀⠀⠀⠔⠒⢦⣀⣀⣈⡁⠀⠀⠀⠀⠀⠀⢰⡟⣼⡿⠁⢀⣴⠟⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢿⣆⠀⠀⠓⢦⠀⠀⠀
+⠀⠀⠀⠀⠀⣀⣀⣀⠀⠉⠓⢄⠀⠀⠀⢀⣿⣱⣿⠃⢠⡾⠁⠀⠀⠀⠀⠀⢀⠖⠢⢤⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠹⣧⠀⠀⠀⠀⠀⠀
+⠀⢀⡴⠞⠋⠉⠉⠉⠙⠳⢦⣄⠁⠒⠤⣸⣇⣿⡇⢀⡿⢤⡀⠀⠀⠀⠀⠀⡏⠀⢀⠠⠐⠒⠂⠀⠀⠀⠀⢀⠀⠀⠀⢻⡆⠀⠀⠀⠀⠀
+⢠⠞⠁⠀⠀⠀⠀⠀⠀⠀⠀⠙⢷⡄⠀⣿⢸⣿⠀⡸⠀⠀⠑⣄⠀⠀⠀⢀⡇⢠⠃⠀⠀⠀⠀⠀⣀⣤⣶⡏⠀⠀⠀⢸⡇⠀⠀⠀⠀⠀
+⡞⠀⠀⠀⠀⣠⠾⣿⡿⢆⠀⠀⠀⢻⡀⡇⣿⡟⢀⠃⠀⠀⠀⠈⠑⠒⠒⠉⠀⡇⠀⠀⠀⠀⠀⢰⣿⣿⡿⠃⠀⠀⠀⢸⠇⠀⠀⠀⠀⠀
+⣇⠀⠀⠀⢀⡇⠀⠀⠀⠘⡆⠀⠀⠀⢃⠃⣿⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣇⠀⠀⠀⠀⢀⠟⠉⠀⠀⠀⠀⠀⢠⡟⠀⠀⠀⠀⠀⠀
+⠸⡄⠀⠀⢸⠀⠀⠀⠀⢰⠁⠀⠀⠀⠘⠀⣿⣧⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣄⠀⠀⢠⠏⠀⠀⠀⠀⠀⠀⣠⡟⠀⠀⠀⠀⠀⠀⠀
+⠀⠈⠲⢄⣛⣀⣀⡠⠔⠁⠀⠀⠀⠀⠀⠀⢸⣿⠀⠀⠀⠀⠀⢠⣿⣷⡄⠀⢀⣀⣈⠳⣄⣘⠀⠀⠀⢀⣀⡤⠞⠋⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⡇⠀⠀⠀⠀⠈⢿⡻⡏⣰⣿⣿⡟⠀⠀⠈⠉⠉⠉⠉⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢿⣧⠀⢀⣤⣶⣦⡌⢣⣇⡫⠿⠛⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠘⣿⡄⠉⠻⠿⠿⢓⡙⡟⢏⣲⣶⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢹⣷⡀⠀⠀⢠⣿⣷⡷⠈⠻⠿⠿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢻⣷⡀⠀⠀⠿⠟⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⣷⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⢷⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠻⣦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+</pre>
 
 </div>
 
@@ -26,12 +68,10 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **Information Technology** student at **Holy Spirit University of Kaslik (USEK)** with 3+ years of Computer Science coursework.
-- 🤖 **AI-Native Engineering**: Experienced in integrating external AI providers behind deterministic guardrails, automated testing, and agent-assisted workflows.
-- 💻 **Full-Stack & Desktop**: Built C# .NET Windows Forms applications with Entity Framework and 3-tier layered architecture, as well as Flutter & MySQL mobile solutions.
-- 🗄️ **Databases**: Solid foundation in MySQL, SQL Server, PL/SQL, schema design, and query optimization.
-- 🎮 **Game Dev & Hardware**: Passionate about developing with **Godot** & **Unity**, and building embedded projects with **Raspberry Pi**.
-- 📍 **Location**: Tabarja, Lebanon
+- 💻 **Full-Stack & Desktop**: Building .NET (C#) applications with Entity Framework and 3-tier layered architecture, as well as Flutter & MySQL solutions.
+- 🤖 **AI-Native Engineering**: Integrating AI models behind deterministic guardrails, automated regression testing, and agent-assisted workflows.
+- 🗄️ **Databases**: Solid experience with MySQL, SQL Server, PL/SQL, schema design, and query optimization.
+- 🎮 **Game Dev & IoT**: Developing interactive games in **Godot** & **Unity**, and tinkering with embedded systems on **Raspberry Pi**.
 
 ---
 
