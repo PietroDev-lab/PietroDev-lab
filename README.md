@@ -1,69 +1,67 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" width="100%" />
+<!-- Waving Black Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=Hey%20%F0%9F%91%8B%20I'm%20Pietro&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%E2%80%A2%20Tech%20Enthusiast&descSize=18&descAlignY=60&descColor=888888" width="100%" />
 
-<h1>Hey 👋 What's Up?</h1>
+<!-- Animated Typewriter -->
+<a href="https://github.com/PietroDev-lab">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFFFF&center=true&vCenter=true&width=460&lines=Full+Stack+Software+Developer;Crafting+modern+web+%26+cloud+apps;Passionate+about+open+source+%26+gaming;Welcome+to+my+digital+universe!" alt="Typing SVG" />
+</a>
 
-<img height="200" src="https://i.imgflip.com/65efzo.gif" />
+<br/><br/>
+
+<!-- Cute Animated Coder -->
+<img height="180" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" alt="Cute pixel coding animation" />
 
 </div>
 
 ---
+
+<h3 align="center">🛠️ Tech Stack & Skills</h3>
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo" />
-<img width="12" />
-
-<img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo" />
-<img width="12" />
-
-<img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
-<img width="12" />
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo" />
-<img width="12" />
-
-<img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo" />
-<img width="12" />
-
-<img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo" />
-<img width="12" />
-
-<img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo" />
-<img width="12" />
-
-<img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo" />
-<img width="12" />
-
-<img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
-<img width="12" />
-
-<img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo" />
+<img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,storybook,graphql,go,rust,nestjs,py,aws&theme=dark" alt="Tech Stack" />
 
 </div>
 
 ---
+
+<h3 align="center">🌐 Connect With Me</h3>
 
 <div align="center">
 
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
-<img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" />
-<img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="25" />
-<img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" height="25" />
-<img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&style=for-the-badge" height="25" />
+<a href="https://linkedin.com">
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
+</a>
+&nbsp;
+<a href="https://twitter.com">
+  <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" height="28" alt="Twitter" />
+</a>
+&nbsp;
+<a href="https://discord.com">
+  <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" height="28" alt="Discord" />
+</a>
+&nbsp;
+<a href="https://twitch.tv">
+  <img src="https://img.shields.io/badge/Twitch-000000?style=for-the-badge&logo=twitch&logoColor=white" height="28" alt="Twitch" />
+</a>
+&nbsp;
+<a href="https://dev.to">
+  <img src="https://img.shields.io/badge/dev.to-000000?style=for-the-badge&logo=dev.to&logoColor=white" height="28" alt="Dev.to" />
+</a>
 
 </div>
 
 ---
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+<h3 align="center">🏆 GitHub Trophies</h3>
 
 <div align="center">
 
 <img
-  src="https://raw.githubusercontent.com/PietroDev-lab/PietroDev-lab/trophy-output/trophy.svg"
-  height="150"
+  src="https://raw.githubusercontent.com/PietroDev-lab/PietroDev-lab/output/trophy.svg"
+  height="145"
   alt="GitHub trophies"
 />
 
@@ -71,24 +69,23 @@
 
 ---
 
-<h2 align="center">🎮 Contribution Arcade</h2>
+<h3 align="center">🎮 Contribution Arcade</h3>
 
 <div align="center">
 
+<!-- Pac-Man Arcade -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/PietroDev-lab/PietroDev-lab/pacman-output/pacman-contribution-graph-dark.svg?game=pacman"
+    srcset="https://raw.githubusercontent.com/PietroDev-lab/PietroDev-lab/output/pacman-dark.svg"
   />
-
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/PietroDev-lab/PietroDev-lab/pacman-output/pacman-contribution-graph.svg?game=pacman"
+    srcset="https://raw.githubusercontent.com/PietroDev-lab/PietroDev-lab/output/pacman.svg"
   />
-
   <img
     alt="Pac-Man contribution graph"
-    src="https://raw.githubusercontent.com/PietroDev-lab/PietroDev-lab/pacman-output/pacman-contribution-graph.svg?game=pacman"
+    src="https://raw.githubusercontent.com/PietroDev-lab/PietroDev-lab/output/pacman-dark.svg"
   />
 </picture>
 
@@ -96,14 +93,54 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h3 align="center">🐍 Cute Contribution Snake</h3>
 
 <div align="center">
 
+<!-- Cute Contribution Snake Animation -->
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/PietroDev-lab/PietroDev-lab/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/PietroDev-lab/PietroDev-lab/output/github-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/PietroDev-lab/PietroDev-lab/output/github-snake-dark.svg"
+  />
+</picture>
+
+</div>
+
+---
+
+<h3 align="center">📊 GitHub Analytics</h3>
+
+<div align="center">
+
+<!-- Streak Stats (Pitch Black Theme) -->
 <img
-  src="https://streak-stats.demolab.com?user=PietroDev-lab&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3"
-  height="150"
+  src="https://streak-stats.demolab.com?user=PietroDev-lab&theme=dark&background=000000&border=1a1a1a&stroke=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff"
+  height="155"
   alt="GitHub streak"
+/>
+
+<br/><br/>
+
+<!-- Stats & Top Languages (Pitch Black Theme) -->
+<img
+  src="https://github-readme-stats.vercel.app/api?username=PietroDev-lab&show_icons=true&bg_color=000000&border_color=1a1a1a&title_color=ffffff&text_color=999999&icon_color=ffffff"
+  height="155"
+  alt="GitHub stats"
+/>
+&nbsp;
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=PietroDev-lab&layout=compact&bg_color=000000&border_color=1a1a1a&title_color=ffffff&text_color=999999"
+  height="155"
+  alt="Top Languages"
 />
 
 </div>
@@ -112,6 +149,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=scaleIn&descSize=20&descAlign=50&descAlignY=50&theme=cobalt" width="100%" />
+<!-- Waving Black Footer Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" width="100%" />
 
 </div>
